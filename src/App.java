@@ -12,8 +12,9 @@ public class App {
 
 
         //System.out.println(NumberPalindrome.isPalindrome(-12321));  
-    System.out.println(FirstLastDigitSum.sumFirstAndLastDigit(15422223));
-        
+    //System.out.println(FirstLastDigitSum.sumFirstAndLastDigit(15422223));
+    
+    System.out.println(EvenDigitSum.getEvenDigitSum(252525252));  
 
 }       
 }
