@@ -8,6 +8,9 @@ public class App {
 
         //System.out.println(NumberOfDaysInMonth.isLeapYear(1700));
 
-        System.out.println(SumOddRange.sumOdd(100, 1000));
-    }
+        //System.out.println(SumOddRange.sumOdd(100, 1000));
+
+
+        //System.out.println(NumberPalindrome.isPalindrome(-12321));  
+}
 }
