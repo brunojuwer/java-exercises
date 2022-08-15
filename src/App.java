@@ -28,7 +28,14 @@ public class App {
                 System.out.println(result);
 
 
+        String result2 =  "H,e,l,l,o";
 
+        String[] newString = result2.split(",");
+
+
+        for (String letter : newString) {
+            System.out.println(letter);
+        }
+    }
 
     }
-}
